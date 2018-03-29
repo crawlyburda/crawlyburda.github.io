@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Music Tracks",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16,7 +16,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -421,6 +421,66 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-a"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Su-uqysWc2Y",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Crawly - \"6 AM\" (Prod. Burda Meatz &amp; Beatz Era)",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://soundcloud.com/smosh-fan-1-1/crawly-6-am-prod-burda-meatz-beatz-era\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOUNDCLOUD</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.youtube.com/watch?v=Su-uqysWc2Y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YOUTUBE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://www.filedropper.com/crawly-6amprodburdameatzbeatzera\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-e"
         }
       ]
     },

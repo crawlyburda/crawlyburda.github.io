@@ -75,6 +75,15 @@
 #msg-box5-a .mbr-article {
   color: #ffffff;
 }
+#msg-box5-e .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-e .mbr-article {
+  color: #ffffff;
+}
 
 #ext_menu-b .mbr-brand__name {
   font-size: 16px;
